@@ -82,7 +82,7 @@ About 85 tools cover what a writer does in Shiro:
 
 ## How changes are kept
 
-Your agent works on the book as you would, and nothing is lost. Every call is one entry in the project's History, named for the agent, and each scene it changes keeps a version from before and after, so you can restore any of them. Scenes and notes you hide from Shiro stay out of its reach. A co-author whose role on a shared book is suggest only still proposes, and the writer applies or rejects.
+Your agent works on the book as you would, and nothing is lost. Every call is one entry in the project's History, named for the agent, and each scene it changes keeps a version from before and after, so you can restore any of them. Scenes and notes you hide from Shiro stay out of its reach. In Shiro's settings you can set an agent to suggest instead, like a co-author with the Editor role: its changes then wait as proposals you apply or reject. An agent connected by someone who may only suggest on a shared book always suggests.
 
 ## Example prompts
 
