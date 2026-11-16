@@ -8,7 +8,7 @@ Shiro is hosted. There is nothing to download, build or run, and no API key.
 
 ## Cline
 
-Add to `cline_mcp_settings.json`:
+In the add-server flow choose server type **Remote (HTTP)**, URL `https://api.meetshiro.com/mcp`, authentication **OAuth**, and leave the OAuth client ID empty for dynamic registration. Or add to `cline_mcp_settings.json`:
 
 ```json
 {

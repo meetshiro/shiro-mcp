@@ -50,6 +50,10 @@ Then run `/mcp auth shiro` to sign in.
 
 [Add Shiro to Kiro](https://kiro.dev/launch/mcp/add?name=shiro&config=%7B%22url%22%3A%22https%3A%2F%2Fapi.meetshiro.com%2Fmcp%22%7D)
 
+### Cline
+
+In the Cline CLI or the extension's MCP servers, add a server: type **Remote (HTTP)**, URL `https://api.meetshiro.com/mcp`, authentication **OAuth**, and leave the OAuth client ID empty (Shiro registers the client itself). Cline opens the browser to sign in.
+
 ### VS Code
 
 ```sh
