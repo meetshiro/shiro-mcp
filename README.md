@@ -46,6 +46,10 @@ Then run `/mcp auth shiro` to sign in.
 { "mcpServers": { "shiro": { "url": "https://api.meetshiro.com/mcp" } } }
 ```
 
+### Kiro
+
+[Add Shiro to Kiro](https://kiro.dev/launch/mcp/add?name=shiro&config=%7B%22url%22%3A%22https%3A%2F%2Fapi.meetshiro.com%2Fmcp%22%7D)
+
 ### VS Code
 
 ```sh
