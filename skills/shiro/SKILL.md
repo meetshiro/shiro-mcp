@@ -10,8 +10,9 @@ Shiro is a book-writing app. Its MCP server (`https://api.meetshiro.com/mcp`) gi
 ## Start
 
 1. Call `project_read` to pick the project and read its card: kind of book, language, point of view, tense.
-2. Read the outline (`story_read` or `structure`) before you open scenes, so you know where each scene sits.
-3. Read only the scenes you need. Long books are large: search first (`search`), then read.
+2. Read the outline before you open scenes: `read` with what `outline`. For a long book, start with depth `chapters` (one line per chapter), then outline one chapter by its id.
+3. To read the book, go a chapter at a time: `read` with what `chapter` returns its scenes in order, about 10,000 words per call, and says where to go on. For one passage, search first (`search`), then read the scene.
+4. Do the reading in this session. An agent you start may not have Shiro's tools.
 
 ## Rules
 

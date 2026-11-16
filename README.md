@@ -73,9 +73,9 @@ Add `https://api.meetshiro.com/mcp` as a remote MCP server (in ChatGPT, through 
 
 ## What your agent can do
 
-About 50 tools cover what a writer does in Shiro:
+About 85 tools cover what a writer does in Shiro:
 
-- **Read**: the project card, the outline, scenes, World entries, notes, research, comments, history and stats.
+- **Read**: the project card, the outline (scene by scene or one line per chapter), scenes, whole chapters a page at a time, World entries, notes, research, comments, history and stats.
 - **Write**: edit and insert prose, create chapters and scenes, try another take of a scene as an alternative, fill World entries, file notes and Inbox captures.
 - **Shape**: structure, story beats, revision passes, labels, goals and the style sheet.
 - **Check and publish**: continuity checks, counts, compile, EPUB and print export.
