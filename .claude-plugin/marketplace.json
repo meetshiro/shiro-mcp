@@ -1,0 +1,14 @@
+{
+  "name": "shiro",
+  "owner": {
+    "name": "Shiro",
+    "email": "hello@meetshiro.com"
+  },
+  "plugins": [
+    {
+      "name": "shiro",
+      "source": "./",
+      "description": "Connect to Shiro's hosted MCP server and work on your book with your agent."
+    }
+  ]
+}

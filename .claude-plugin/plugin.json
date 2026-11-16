@@ -1,0 +1,17 @@
+{
+  "name": "shiro",
+  "version": "1.0.0",
+  "description": "Connect to Shiro, a book-writing app, so your agent can read and work on the whole book, with every change kept in History.",
+  "author": {
+    "name": "Shiro",
+    "email": "hello@meetshiro.com",
+    "url": "https://meetshiro.com/"
+  },
+  "homepage": "https://meetshiro.com/agents/",
+  "repository": "https://github.com/meetshiro/shiro-mcp",
+  "license": "MIT",
+  "keywords": ["shiro", "writing", "books", "novel", "manuscript", "mcp"],
+  "displayName": "Shiro",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://meetshiro.com/privacy/"
+}

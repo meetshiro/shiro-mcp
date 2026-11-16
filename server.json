@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.meetshiro/shiro",
+  "title": "Shiro",
+  "description": "Work on your book with any agent: scenes, outline, World, every change kept in History.",
+  "version": "1.0.0",
+  "websiteUrl": "https://meetshiro.com/agents/?utm_source=official-mcp-registry&utm_medium=directory&utm_campaign=2026-11-distribution",
+  "repository": {
+    "url": "https://github.com/meetshiro/shiro-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://meetshiro.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.meetshiro.com/mcp"
+    }
+  ]
+}

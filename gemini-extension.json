@@ -1,0 +1,11 @@
+{
+  "name": "shiro",
+  "version": "1.0.0",
+  "description": "Work on your book with any agent: scenes, outline, World, every change kept in History.",
+  "mcpServers": {
+    "shiro": {
+      "httpUrl": "https://api.meetshiro.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
